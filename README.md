@@ -1,4 +1,3 @@
-# LFW_accuracy_test
 # Introduction
 This is the Python version of evaluation.m for [Sphereface](https://github.com/wy1iu/sphereface).
 
@@ -8,6 +7,6 @@ This is the Python version of evaluation.m for [Sphereface](https://github.com/w
 
 # Usage
 ```python
-$ python lfw\_acc_test.py
+$ python lfw_acc_test.py
 ```
 
