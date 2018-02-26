@@ -1,2 +1,13 @@
 # LFW_accuracy_test
-This is the Python version of evaluation.m for &lt;SphereFace: Deep Hypersphere Embedding for Face Recognition> in CVPR'17
+# Introduction
+This is the Python version of evaluation.m for [Sphereface](https://github.com/wy1iu/sphereface).
+
+# Requirements
+* You need to use **extract_features.bin** in caffe to extract 512-d feature vector from **layer fc5**. The command can be found in **file** folder.
+* You need to change the **root_dir** in the main function to your own path.
+
+# Usage
+```python
+$ python lfw\_acc_test.py
+```
+
