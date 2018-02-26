@@ -9,4 +9,5 @@ This is the Python version of evaluation.m for [Sphereface](https://github.com/w
 ```python
 # python lfw_acc_test.py
 ```
-
+# Result
+The result is shown in result.png
