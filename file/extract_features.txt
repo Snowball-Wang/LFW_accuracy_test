@@ -1,0 +1,5 @@
+your_caffe_path/extract_features.bin your_caffemodel_path/xxx.caffemodel your_deploy_path/sphereface_deploy.prototxt fc5 your_lmdb_path/features 1200 lmdb
+
+e.g: 
+./extract_features.bin /home/snowball/Desktop/sphereface_model_iter_66000.caffemodel /home/snowball/lfw_test/sphereface/train/_temp/sphereface_deploy.prototxt fc5 /home/snowball/lfw_test/sphereface/train/_temp/features 1200 lmdb
+
